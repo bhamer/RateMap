@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace RateMapping
 {
     /// <summary>
-    /// Trie-like data structure for finding a best-match Rate given a set of attributes.
+    /// Trie-like data structure for finding a best-match rate to charge given a set of attributes.
     /// 
     /// Requirements:
     /// Fast search time. Search will be called many times in loop.
